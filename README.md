@@ -25,7 +25,8 @@ The dataset consists of a single table with the following columns:
 
 ## 📷 Report Screenshots
 
-![Page 1](https://github.com/user-attachments/assets/c8a17c8d-b531-48c7-b444-b39270e6d4b4)
+![Page 1](https://github.com/user-attachments/assets/a5b723c3-0843-4f1a-94a0-4ebe668e5ef5)
+
 
 ![Page 2](https://github.com/user-attachments/assets/777fec9d-76a1-4ff8-ab95-d616e329f928)
 
